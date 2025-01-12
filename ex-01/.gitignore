@@ -1,0 +1,11 @@
+# Node.js bağımlılıkları
+node_modules/
+
+# Parcel önbelleği
+.parcel-cache/
+
+# Parcel tarafından oluşturulan çıktı klasörü
+dist/
+
+# Çeşitli sistem dosyaları
+.DS_Store
