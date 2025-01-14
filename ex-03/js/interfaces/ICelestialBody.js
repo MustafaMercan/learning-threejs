@@ -7,6 +7,7 @@ export class ICelestialBody {
         this.size = size; // Çap
         this.color = color; // Renk
         this.position = position; // { x, y, z }
+
     }
 
     create() {
